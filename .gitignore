@@ -1,4 +1,4 @@
 .ipynb_checkpoints/
 .DS_Store
-data/
+data
 names.tsv
